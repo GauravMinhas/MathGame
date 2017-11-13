@@ -63,7 +63,7 @@
 						</h2>';
 	
 	
-	echo '<form action="index.php" method="post" role="form" class="form-horizontal">
+	echo '<form action="index.php" method="post" class="form-horizontal">
 
         
 			<input type="hidden" name="first_number" value="'.$num1.'" />

@@ -7,7 +7,7 @@
         header("Location:index.php");
     } else {
         // display error msg if the prompt was redirected here form pages other than logout.php
-        echo "<br/>";
+        
         // init the login variable
         $_SESSION['loginId'] = "not set";
     }
@@ -19,7 +19,7 @@
 	</div>
 </div>
 
-<form action="check.php" method="post" role="form" class="form-horizontal">
+<form action="check.php" method="post"  class="form-horizontal">
 
 	<div class="form-group">        
 	  <div class="col-sm-offset-2 col-sm-10">
