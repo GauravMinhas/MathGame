@@ -111,7 +111,7 @@
                 
         </div>';
 		
-	echo '</div></div>';
+	echo '</div></div></div>';
 	
 
 	include("include/footer.php");
