@@ -7,8 +7,8 @@ Student#1:
 
 Student#2: 
 	Name: Yuliia Nesova;
-	StudentId: A01032761;
-	Email: 99wlstjr@gmail.com
+	StudentId: A01029426 ;
+	Email: ynesova@my.bcit.ca;
 	
 Status: All the given requirements have been met;
 
